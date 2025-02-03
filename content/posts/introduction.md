@@ -8,8 +8,10 @@ title = 'Introduction'
 
 ## **Who Am I?**  
 I wouldn’t call myself a hardcore gamer, but I’ve enjoyed video games ever since I first laid hands on a Nintendo handheld back in the 80s. More than just entertainment, games have always fascinated me as interactive systems—complex, creative, and full of possibilities.  
+<!--more-->
 
-For the past 15 years, I’ve been teaching myself to code. Initially, I used it for solving work-related problems, analyzing data, and exploring generative design. But deep down, I’ve always wanted to complete a creative project from start to finish—something that challenges both my technical and artistic sides. I believe making a video game is the perfect way to do that, so I’m finally taking the plunge and giving it my all.  
+For the past 15 years, I’ve been teaching myself to code. Initially, I used it for solving work-related problems, analyzing data, and exploring generative design. But deep down, I’ve always wanted to complete a creative project from start to finish—something that challenges both my technical and artistic sides. I believe making a video game is the perfect way to do that, so I’m finally taking the plunge and giving it my all.
+
 
 ## **The Idea Behind the Game**  
 The lightbulb moment came when I saw my son playing dots and boxes with his uncle. It reminded me of the vector racing game I used to play with my dad and friends—simple yet full of strategic depth. I thought it could be an easy enough mechanic to implement in code.  

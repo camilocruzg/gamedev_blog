@@ -10,6 +10,8 @@ title = 'Core Mechanics'
 
 I know that **turn-based racing** might sound strange at first. But this game **isn’t about speed or reflexes**—instead, it’s about **planning, precision, and strategy**. Your ability to **control acceleration and trajectory** depends entirely on **previous moves**, requiring forward-thinking and adaptability.
 
+<!--more-->
+
 ## **The Basics: Movement & Turns**
 
 - The game is **grid-based**, with each car occupying a single cell.  
