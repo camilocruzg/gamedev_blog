@@ -2,11 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vector Shift Dev Blog</title>
-    <link>https://example.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Vector Shift Dev Blog</description>
     <generator>Hugo</generator>
     <language>en-uk</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Feb 2025 16:32:46 +1100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Core Mechanics</title>
+      <link>http://localhost:1313/posts/game_mechanics/</link>
+      <pubDate>Mon, 03 Feb 2025 16:32:46 +1100</pubDate>
+      <guid>http://localhost:1313/posts/game_mechanics/</guid>
+      <description>&lt;h1 id=&#34;core-mechanics-how-turn-based-racing-works&#34;&gt;&lt;strong&gt;Core Mechanics: How Turn-Based Racing Works&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;a-different-kind-of-racing-game&#34;&gt;&lt;strong&gt;A Different Kind of Racing Game&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;I know that &lt;strong&gt;turn-based racing&lt;/strong&gt; might sound strange at first. But this game &lt;strong&gt;isn’t about speed or reflexes&lt;/strong&gt;—instead, it’s about &lt;strong&gt;planning, precision, and strategy&lt;/strong&gt;. Your ability to &lt;strong&gt;control acceleration and trajectory&lt;/strong&gt; depends entirely on &lt;strong&gt;previous moves&lt;/strong&gt;, requiring forward-thinking and adaptability.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-basics-movement--turns&#34;&gt;&lt;strong&gt;The Basics: Movement &amp;amp; Turns&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The game is &lt;strong&gt;grid-based&lt;/strong&gt;, with each car occupying a single cell.&lt;/li&gt;&#xA;&lt;li&gt;A move starts by &lt;strong&gt;copying the previous move&lt;/strong&gt; from the car’s current position—this defines the &lt;strong&gt;reference cell&lt;/strong&gt; for the next move.&lt;/li&gt;&#xA;&lt;li&gt;The player can then &lt;strong&gt;choose the reference cell or any adjacent cell&lt;/strong&gt;, as long as it’s available.&lt;/li&gt;&#xA;&lt;li&gt;A cell is available if it’s &lt;strong&gt;on the track and not occupied&lt;/strong&gt; by another racer.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This simple system creates &lt;strong&gt;a deep, tactical challenge&lt;/strong&gt;, where players must anticipate their trajectory &lt;strong&gt;several turns in advance&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introduction</title>
+      <link>http://localhost:1313/posts/introduction/</link>
+      <pubDate>Sat, 01 Feb 2025 17:41:17 +1100</pubDate>
+      <guid>http://localhost:1313/posts/introduction/</guid>
+      <description>&lt;h1 id=&#34;why-im-making-a-turn-based-racing-game&#34;&gt;&lt;strong&gt;Why I’m Making a Turn-Based Racing Game&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;who-am-i&#34;&gt;&lt;strong&gt;Who Am I?&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;I wouldn’t call myself a hardcore gamer, but I’ve enjoyed video games ever since I first laid hands on a Nintendo handheld back in the 80s. More than just entertainment, games have always fascinated me as interactive systems—complex, creative, and full of possibilities.&lt;/p&gt;&#xA;&lt;p&gt;For the past 15 years, I’ve been teaching myself to code. Initially, I used it for solving work-related problems, analyzing data, and exploring generative design. But deep down, I’ve always wanted to complete a creative project from start to finish—something that challenges both my technical and artistic sides. I believe making a video game is the perfect way to do that, so I’m finally taking the plunge and giving it my all.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
