@@ -1,4 +1,5 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-uk'
 title = 'Vector Shift Dev Blog'
-theme = 'dream'
+theme = 'ananke'
+
