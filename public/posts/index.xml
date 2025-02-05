@@ -10,16 +10,16 @@
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Core Mechanics</title>
-      <link>http://localhost:1313/posts/game_mechanics/</link>
+      <link>http://localhost:1313/posts/game_mechanics/game_mechanics/</link>
       <pubDate>Mon, 03 Feb 2025 16:32:46 +1100</pubDate>
-      <guid>http://localhost:1313/posts/game_mechanics/</guid>
+      <guid>http://localhost:1313/posts/game_mechanics/game_mechanics/</guid>
       <description>&lt;h1 id=&#34;core-mechanics-how-turn-based-racing-works&#34;&gt;&lt;strong&gt;Core Mechanics: How Turn-Based Racing Works&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;a-different-kind-of-racing-game&#34;&gt;&lt;strong&gt;A Different Kind of Racing Game&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;I know that &lt;strong&gt;turn-based racing&lt;/strong&gt; might sound strange at first. But this game &lt;strong&gt;isn’t about speed or reflexes&lt;/strong&gt;—instead, it’s about &lt;strong&gt;planning, precision, and strategy&lt;/strong&gt;. Your ability to &lt;strong&gt;control acceleration and trajectory&lt;/strong&gt; depends entirely on &lt;strong&gt;previous moves&lt;/strong&gt;, requiring forward-thinking and adaptability.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introduction</title>
-      <link>http://localhost:1313/posts/introduction/</link>
+      <link>http://localhost:1313/posts/introduction/introduction/</link>
       <pubDate>Sat, 01 Feb 2025 17:41:17 +1100</pubDate>
-      <guid>http://localhost:1313/posts/introduction/</guid>
+      <guid>http://localhost:1313/posts/introduction/introduction/</guid>
       <description>&lt;h1 id=&#34;why-im-making-a-turn-based-racing-game&#34;&gt;&lt;strong&gt;Why I’m Making a Turn-Based Racing Game&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;who-am-i&#34;&gt;&lt;strong&gt;Who Am I?&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;I wouldn’t call myself a hardcore gamer, but I’ve enjoyed video games ever since I first laid hands on a Nintendo handheld back in the 80s. More than just entertainment, games have always fascinated me as interactive systems—complex, creative, and full of possibilities.&lt;/p&gt;</description>
     </item>
   </channel>

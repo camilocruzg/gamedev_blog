@@ -17,7 +17,9 @@ I know that **turn-based racing** might sound strange at first. But this game **
 - The game is **grid-based**, with each car occupying a single cell.  
 - A move starts by **copying the previous move** from the car’s current position—this defines the **reference cell** for the next move.  
 - The player can then **choose the reference cell or any adjacent cell**, as long as it’s available.  
-- A cell is available if it’s **on the track and not occupied** by another racer.  
+- A cell is available if it’s **on the track and not occupied** by another racer.
+
+![Mechanics diagram](/images/game_mechanics01.png)
 
 This simple system creates **a deep, tactical challenge**, where players must anticipate their trajectory **several turns in advance**.
 
