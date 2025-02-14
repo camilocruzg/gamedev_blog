@@ -1,0 +1,13 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-uk'
+title = 'Vector Shift Dev Blog'
+theme = 'PaperMod'
+
+[params]
+    subtitle = 'A blog about a turn-based racing video game'
+
+[menus]
+    [[menus.footer]]
+        name = 'About'
+        page_ref = '/about'
+

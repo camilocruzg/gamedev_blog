@@ -1,10 +1,8 @@
-+++
-date = '2025-02-01T17:41:17+11:00'
-draft = false
-title = 'Introduction'
-+++
-
-# **Why I’m Making a Turn-Based Racing Game**  
+---
+date: '2025-02-01T17:41:17+11:00'
+draft: false
+title: "Why I’m Making a Turn-Based Racing Game"
+---
 
 ## **Who Am I?**  
 I wouldn’t call myself a hardcore gamer, but I’ve enjoyed video games ever since I first laid hands on a Nintendo handheld back in the 80s. More than just entertainment, games have always fascinated me as interactive systems—complex, creative, and full of possibilities.  

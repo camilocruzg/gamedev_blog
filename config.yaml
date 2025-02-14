@@ -1,0 +1,33 @@
+baseURL: ""
+languageCode: en-uk
+title: Vector Shift Dev Blog
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Hello"
+    Content: ""
+  socialIcons:
+    - name: bluesky
+      url: https://bsky.app/profile/camilocruzg.bsky.social
+    - name: discord
+      url: https://discord.com/channels/1339427108405117072/1339427108405117077
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowShareButtons: ["reddit", "twitter"]
+  ShowPostNavLinks: true
+
+menu:
+  main:
+    - identifier: archives
+      name: Archive
+      url: /archives/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 10
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10

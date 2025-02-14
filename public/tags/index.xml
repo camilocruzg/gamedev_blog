@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Vector Shift Dev Blog</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on Vector Shift Dev Blog</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.142.0</generator>
     <language>en-uk</language>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Feb 2025 16:32:46 +1100</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Game-Mechanics</title>
+      <link>//localhost:1313/tags/game-mechanics/</link>
+      <pubDate>Mon, 03 Feb 2025 16:32:46 +1100</pubDate>
+      <guid>//localhost:1313/tags/game-mechanics/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

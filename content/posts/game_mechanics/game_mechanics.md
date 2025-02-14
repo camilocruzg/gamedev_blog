@@ -1,10 +1,9 @@
-+++
-date = '2025-02-03T16:32:46+11:00'
-draft = false
-title = 'Core Mechanics'
-+++
-
-# **Core Mechanics: How Turn-Based Racing Works**
+---
+date: '2025-02-03T16:32:46+11:00'
+title: "Core Mechanics: How Turn-Based Racing Works"
+draft: false
+tags: ['game-mechanics']
+---
 
 ## **A Different Kind of Racing Game**
 
