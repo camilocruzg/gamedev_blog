@@ -1,7 +1,7 @@
 baseURL: ""
 languageCode: en-uk
 title: Vector Shift Dev Blog
-theme: PaperMod
+theme: papermod
 
 params:
   homeInfoParams:
